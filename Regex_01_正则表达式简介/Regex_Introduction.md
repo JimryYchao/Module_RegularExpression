@@ -1,6 +1,6 @@
-# Regex Introduce
+# Regex Introduction
 
-- [Regex Introduce](#regex-introduce)
+- [Regex Introduction](#regex-introduction)
   - [第1章 Regex 简介](#第1章-regex-简介)
     - [1.1 简介说明](#11-简介说明)
     - [1.2 Regex 引擎](#12-regex-引擎)
